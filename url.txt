@@ -1,0 +1,5 @@
+*Akses Google Colaboratory*
+https://colab.research.google.com/drive/1MGQ0jyW3KojWZyL-Iaof26PMP5k4HkHZ#scrollTo=H4g0FvYfLlaZ
+
+*Akses Dashboard*
+https://lookerstudio.google.com/reporting/b0cb6119-4c3b-42a8-b4ab-f757ea2f01db/page/aX01D
